@@ -1,7 +1,7 @@
 # Data-Center-Infraestructures
 
 ### Short description:
-Wiji.js Deployment @ Google Cloud
+Wiki.js Application Deployment @ Google Cloud
 
 ### Members / Maintainers:
 
