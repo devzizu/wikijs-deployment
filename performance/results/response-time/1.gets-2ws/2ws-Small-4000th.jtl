@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1611569460814,226,GET - Page Small Content,200,OK,Thread Group 1-1,text,true,,570,906,1,1,http://34.90.55.186:3000/graphql,221,0,111
