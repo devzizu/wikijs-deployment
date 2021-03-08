@@ -15,4 +15,4 @@ Wiki.js Application Deployment @ Google Cloud
 
 <br>
 
->**University of Minho, Software Engineering Masters (4rd year)**
+>**University of Minho, Software Engineering (4rd year)**
